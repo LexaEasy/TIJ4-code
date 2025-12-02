@@ -1,8 +1,6 @@
 {
-  "java.project.sourcePaths": [
-    "examples",
-    "ex2"
-  ],
+  "java.project.sourcePaths": ["examples"],
   "java.project.outputPath": "out",
-  "java.project.referencedLibraries": []
+  "java.debug.settings.buildBeforeLaunch": "always",
+  "java.debug.settings.forceBuildBeforeLaunch": true
 }
