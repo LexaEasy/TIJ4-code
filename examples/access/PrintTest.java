@@ -1,5 +1,7 @@
 //: access/PrintTest.java
 // Uses the static printing methods in Print.java.
+package access;
+
 import static net.mindview.util.Print.*;
 
 public class PrintTest {

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c0a5334-ed49-430c-bd53-b622f81b87dc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/examples/access/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/access/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/annotations/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/annotations/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/arrays/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/arrays/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/bangbean/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/bangbean/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/concurrency/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/concurrency/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/containers/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/containers/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/control/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/control/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/enumerated/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/enumerated/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/exceptions/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/exceptions/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/frogbean/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/frogbean/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/generics/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/generics/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gui/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/gui/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/holding/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/holding/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/initialization/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/initialization/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/innerclasses/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/innerclasses/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/interfaces/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/interfaces/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/io/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/io/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/net/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/net/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/object/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/object/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/operators/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/operators/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/polymorphism/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/polymorphism/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/reusing/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/reusing/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/strings/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/strings/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/swt/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/swt/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/typeinfo/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/typeinfo/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/xml/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/xml/build.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="35veLTTXja3ijmwkl9NzDTdgKHA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Dinner.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Projects/TIJ4/code/TIJ4-code&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="TIJ4-code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="TIJ4-code" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c0a5334-ed49-430c-bd53-b622f81b87dc" name="Changes" comment="" />
+      <created>1763994916672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763994916672</updated>
+    </task>
+    <servers />
+  </component>
+</project>

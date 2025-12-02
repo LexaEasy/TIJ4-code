@@ -1,4 +1,5 @@
 //: access/FullQualification.java
+package access;
 
 public class FullQualification {
   public static void main(String[] args) {

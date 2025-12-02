@@ -1,4 +1,6 @@
 //: access/SingleImport.java
+package access;
+
 import java.util.ArrayList;
 
 public class SingleImport {

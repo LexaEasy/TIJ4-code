@@ -1,5 +1,6 @@
 //: access/IceCream.java
 // Demonstrates "private" keyword.
+package access;
 
 class Sundae {
   private Sundae() {}

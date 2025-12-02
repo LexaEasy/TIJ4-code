@@ -1,4 +1,5 @@
 //: access/OrganizedByAccess.java
+package access;
 
 public class OrganizedByAccess {
   public void pub1() { /* ... */ }

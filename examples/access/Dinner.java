@@ -1,5 +1,7 @@
 //: access/Dinner.java
 // Uses the library.
+package access;
+
 import access.dessert.*;
 
 public class Dinner {
